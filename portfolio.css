@@ -770,6 +770,17 @@ a {
 
 
 
+.Hobbies{
+flex: 1 1 45%; /* Chaque élément peut grandir mais commence avec 45% de la largeur */
+position: relative;
+left: 10%;
+margin: 5px;
+padding: 10px;
+border-radius: 8px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+background-color: #fff5e6; /* Couleur de fond chaleureuse */
+text-align: center;
+}
 
 
 
