@@ -773,7 +773,7 @@ a {
 .Hobbies{
 flex: 1 1 45%; /* Chaque élément peut grandir mais commence avec 45% de la largeur */
 position: relative;
-left: 10%;
+left: 0%;
 margin: 5px;
 padding: 10px;
 border-radius: 8px;
